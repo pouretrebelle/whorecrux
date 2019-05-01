@@ -1,4 +1,5 @@
 ---
+slug: 'adamant-and-starlight'
 title: 'Adamant And Starlight'
 author: 'CorvetteClaire'
 link: 'https://www.fanfiction.net/s/1464307/1/Adamant-and-Starlight'
@@ -9,14 +10,14 @@ words: 123020
 rating: 68
 smut: 40
 type: 'chaptered'
-world: 'Hogwarts'
+world: 'hogwarts'
 canon: 'post-GoF'
-war: 'war-centric'
+war: 'war centric'
 features: ['injury']
 locations: ['hogwarts', 'hospital wing']
 genres: ['action']
 pov: 'harry'
-# prequel: "143853397475"
+prequel: 'thicker-than-blood'
 ---
 
 WOAH. This is one hell of a story. Lots of plot. I think the characterisation of Harry and Draco is a step up from the prequel. Unfortunately the author says at the end that they’re working on the third in the series but nothing more has been published. My heart skipped several beats.
